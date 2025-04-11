@@ -3,6 +3,9 @@ site_author: Justyna Lasecka
 site_description: >-
     Portfolio moich projektów z Data Science i AI-+
 
+repo_name: justynalasecka/ds_ai_portfolio
+repo_url: https://github.com/justynalasecka/ds_ai_portfolio.git
+
 theme:
   name: material
   palette:
