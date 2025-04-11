@@ -1,7 +1,8 @@
 site_name: Moje projekty
 site_author: Justyna Lasecka
+site_url: https://justynalasecka.github.io/ds_ai_portfolio/
 site_description: >-
-    Portfolio moich projektów z Data Science i AI-+
+    Portfolio moich projektów z Data Science i AI
 
 repo_name: justynalasecka/ds_ai_portfolio
 repo_url: https://github.com/justynalasecka/ds_ai_portfolio.git
